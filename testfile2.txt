@@ -1,2 +1,3 @@
 Working on Feature1 branch
 Adding a new line from feature1 branch 
+This is line 2. Making changes on master.
