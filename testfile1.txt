@@ -1,1 +1,2 @@
 Hello! Connecting to remote repository on Windows
+Adding a new line to test merge conflict from feature1 branch
