@@ -1,3 +1,4 @@
 Hello! Connecting to remote repository on Windows
 Adding a new line to test merge conflict from feature1 branch
 Adding a line from the console on testfile1 on master
+Adding a line to test pull request
